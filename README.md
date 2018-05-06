@@ -1,2 +1,2 @@
-# litmagde
+# LitMagDe
 Literary Magazine Design
